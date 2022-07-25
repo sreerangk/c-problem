@@ -27,6 +27,6 @@ int main(){
  
         printf("\n");
     }
-    a=++a;
+    a=a++;
     }
 }
