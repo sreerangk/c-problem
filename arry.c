@@ -31,7 +31,7 @@ int main()
                 // decrease the size of array after removing duplicate element
                 size--;
 
-                // if the position of the elements is changes, don't increase the index j
+                // if the position of the elements is changz
                 j--;
             }
         }
